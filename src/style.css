@@ -1,0 +1,12 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: rgba(0, 0, 0, 0.7);
+  background: #F7F7F7;
+}
+
+body, input, button {
+  font: 40px Ubuntu, sans-serif;
+  text-align: center;
+}
